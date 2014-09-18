@@ -1,5 +1,5 @@
 FROM ubuntu:precise
-MAINTAINER Vlada <vlada.petrovic@gmail.com>
+MAINTAINER vlada.petrovic+test@gmail.com
 
 # Upgrade
 RUN apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y
